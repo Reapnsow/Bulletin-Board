@@ -1,0 +1,13 @@
+{
+  "main.css": "/bulletin-board/static/css/main.2e8e7409.chunk.css",
+  "main.js": "/bulletin-board/static/js/main.b64ecbfa.chunk.js",
+  "main.js.map": "/bulletin-board/static/js/main.b64ecbfa.chunk.js.map",
+  "static/js/1.21a88d23.chunk.js": "/bulletin-board/static/js/1.21a88d23.chunk.js",
+  "static/js/1.21a88d23.chunk.js.map": "/bulletin-board/static/js/1.21a88d23.chunk.js.map",
+  "runtime~main.js": "/bulletin-board/static/js/runtime~main.815a3d4b.js",
+  "runtime~main.js.map": "/bulletin-board/static/js/runtime~main.815a3d4b.js.map",
+  "static/css/main.2e8e7409.chunk.css.map": "/bulletin-board/static/css/main.2e8e7409.chunk.css.map",
+  "index.html": "/bulletin-board/index.html",
+  "precache-manifest.52b83d2c5ca065efb638de76bf841461.js": "/bulletin-board/precache-manifest.52b83d2c5ca065efb638de76bf841461.js",
+  "service-worker.js": "/bulletin-board/service-worker.js"
+}
